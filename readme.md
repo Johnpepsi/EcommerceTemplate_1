@@ -1,6 +1,6 @@
 ### Fashion store website template
 
-![Fashion store website template](fashion-store-website.gif)
+![Fashion store website template](fasion-store-website.jpg)
 
 Fashion store HTML Template is a clean and single page design – suitable for selling clothing, fashion, high fashion, men fashion, women fashion, accessories, digital, kids, watches, jewelry, shoes, kids, furniture, sports, tools….. It has a fully responsive width adjusts automatically to any screen size or resolution.
 
